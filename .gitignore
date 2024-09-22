@@ -167,6 +167,7 @@ cython_debug/
 *.DS_Store
 
 *stats-qp*
+embeddings/*
 figures/*
 artifacts/alternative_hint/figures/*
 papers/*
