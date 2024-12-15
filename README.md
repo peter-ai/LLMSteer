@@ -5,6 +5,8 @@ This repository contains code, embeddings of SQL queries, models, and result art
 
 Data used in this work is accessible [here](https://www.dropbox.com/scl/fi/o0bqsm5osdm3wsotg7i5e/llmsteer_data.tar.zst?rlkey=8u4t506zpm42vst5w1l4slxca&st=logxe3pp&dl=0) and can be unzipped with the following command: `tar --zstd -xvf llmsteer_data.tar.zst`
 
+The list of hints used in this work originate from [Bao](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) and can be found in the online appendix [here](https://rmarcus.info/appendix.html)
+
 **Full paper can be found on arXiv [here](https://arxiv.org/abs/2411.02862)**
 
 You can find me at [peterai.me](https://peterai.me)
