@@ -8,5 +8,3 @@ Data used in this work is accessible [here](https://www.dropbox.com/scl/fi/o0bqs
 The list of hints used in this work originate from [Bao](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) and can be found in the online appendix [here](https://rmarcus.info/appendix.html)
 
 **Full paper can be found on arXiv [here](https://arxiv.org/abs/2411.02862)**
-
-You can find me at [peterai.me](https://peterai.me)
